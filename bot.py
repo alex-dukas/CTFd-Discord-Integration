@@ -1,4 +1,4 @@
-# Made by BSides St. Pete
+# Made by alex-dukas 2022
 from datetime import datetime
 from discord.ext import commands
 from config import Config
